@@ -75,7 +75,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 <div align="center">
   
-  [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli&theme=slateorange&show_icons=true&count_private=true)](#)
+  [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli&theme=slateorange&show_icons=true&include_all_commits=true)](#)
 
 </div>
 
@@ -83,4 +83,4 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoDelliRocioli&layout=compact&theme=dark&hide=makefile,html&exclude_repo=doberSoft,EmailSender,CSV_ScriptTest,IIOT_OPC)](#) -->
 
-  <!-- [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli)](#) -->
+  <!-- [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli&count_private=true)](#) -->

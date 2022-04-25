@@ -66,6 +66,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatteoDelliRocioli&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=MatteoDelliRocioli&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" display=block width=100% height=240 alt="my-streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoDelliRocioli&layout=compact&theme=dark&hide=makefile,html&exclude_repo=doberSoft,EmailSender,CSV_ScriptTest,IIOT_OPC"  display=block height=240 width=100% align="center" alt="my-languages"></td>
+   </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoDelliRocioli&layout=compact&theme=dark&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli&theme=slateorange&show_icons=true&count_private=true)](#)
+
+</div>
+
+  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatteoDelliRocioli&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#) -->
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoDelliRocioli&layout=compact&theme=dark&hide=makefile,html&exclude_repo=doberSoft,EmailSender,CSV_ScriptTest,IIOT_OPC)](#) -->
+
+  <!-- [![MatteoDelliRocioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDelliRocioli)](#) -->

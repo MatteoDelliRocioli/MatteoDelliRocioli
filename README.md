@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building **web applications**.
 
 - :zap: In my free time, I solve problems on [![LeetCode user MatteoDelliRocioli](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMatteoDelliRocioli&logo=leetcode&logoColor=yellow)](https://leetcode.com/MatteoDelliRocioli/) and read tech articles on [![DEV.to badge](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to) or [![HackerNews badge](https://badgen.net/badge/hacker/news?icon=bitcoin-lightning&color=orange)](https://news.ycombinator.com/)
 

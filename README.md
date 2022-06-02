@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=MatteoDelliRocioli&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
     I'm Matteo Delli Rocioli
   </h1>
 </div>

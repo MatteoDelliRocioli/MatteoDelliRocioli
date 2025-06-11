@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+I am a **Backend Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend building **web applications**.
 
